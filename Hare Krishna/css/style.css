@@ -1,0 +1,110 @@
+body {
+    background-color: #86E5FF;
+    margin: 0;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.top-container {
+    background-color: #0081C9;
+    height: 6.25rem;
+    position: relative;
+}
+
+#link-1 {
+    color: #F1F7B5;
+    position: absolute;
+    left: 10px;
+    bottom: 40px;
+}
+
+#link-2 {
+    color: #F1F7B5;
+    position:absolute;
+    left: 120px;
+    bottom: 40px;
+}
+
+#link-3 {
+    color: #F1F7B5;
+    position: absolute;
+    right: 120px;
+    bottom: 40px;
+}
+
+#link-4 {
+    color: #F1F7B5;
+    position: absolute;
+    right: 10px;
+    bottom: 40px;
+}
+
+.top-heading {
+    margin-top: 50px;
+    font-family: Sacramento;
+}
+
+.top-image{
+    padding: 20px;
+}
+
+.krishna-image-1 {
+    border-radius: 100%;
+}
+
+.btn {
+    background: #000000;
+    background-image: -webkit-linear-gradient(top, #000000, #889094);
+    background-image: -moz-linear-gradient(top, #000000, #889094);
+    background-image: -ms-linear-gradient(top, #000000, #889094);
+    background-image: -o-linear-gradient(top, #000000, #889094);
+    background-image: linear-gradient(to bottom, #000000, #889094);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Georgia;
+    color: #f7cf8f;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #61690f;
+    background-image: -webkit-linear-gradient(top, #61690f, #3498db);
+    background-image: -moz-linear-gradient(top, #61690f, #3498db);
+    background-image: -ms-linear-gradient(top, #61690f, #3498db);
+    background-image: -o-linear-gradient(top, #61690f, #3498db);
+    background-image: linear-gradient(to bottom, #61690f, #3498db);
+    text-decoration: none;
+  }
+
+  .middle-heading {
+    margin-top: 50px;
+    font-family: Sacramento;
+  }
+
+  hr {
+    border-style: none;
+    border-top: dotted;
+    width: 15%;
+    border-width: 5px;
+    color: #000000;
+    margin-top: 40px;
+    margin-bottom: 40px;
+  }
+
+  .krishna-image-2 {
+    border-radius: 100%;
+  }
+
+  .bottom-container {
+    background-color: #0081C9;
+    height: 6.25rem;
+    text-align: center;
+    margin: 0;
+  }
+
+  .bottom-paragraph {
+    padding: 42.5px;
+  }
